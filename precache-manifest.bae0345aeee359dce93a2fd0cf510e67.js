@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d378d8d1c8775a608f8915af73d4128",
+    "revision": "2375c7dba919fc45239624cd83b33b56",
     "url": "/rajesh13goud/todo-app.git/index.html"
   },
   {
-    "revision": "02db69f210197ae0b3fc",
+    "revision": "abe597bd202f090b2232",
     "url": "/rajesh13goud/todo-app.git/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "ed3020eb41a479424f41",
-    "url": "/rajesh13goud/todo-app.git/static/css/main.34de6062.chunk.css"
+    "revision": "105bba7c420973726b0f",
+    "url": "/rajesh13goud/todo-app.git/static/css/main.78b8b079.chunk.css"
   },
   {
-    "revision": "02db69f210197ae0b3fc",
-    "url": "/rajesh13goud/todo-app.git/static/js/2.6284bef2.chunk.js"
+    "revision": "abe597bd202f090b2232",
+    "url": "/rajesh13goud/todo-app.git/static/js/2.0bf932f4.chunk.js"
   },
   {
-    "revision": "ed3020eb41a479424f41",
-    "url": "/rajesh13goud/todo-app.git/static/js/main.e5493f88.chunk.js"
+    "revision": "105bba7c420973726b0f",
+    "url": "/rajesh13goud/todo-app.git/static/js/main.de0723fe.chunk.js"
   },
   {
     "revision": "8f26ba9ffbbc77d73230",
